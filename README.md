@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miguel-Graham
 - 👀 I’m interested in finding new problems to solve, OOP programming.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning software development
 - 📫 How to reach me grahammiguel17@yahoo.com
 
 <!---
